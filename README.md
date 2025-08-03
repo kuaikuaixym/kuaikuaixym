@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Yiman Xie 谢艺漫. I'm currently an undergraduate at Turing Class, Zhejiang University.
+## Hi there 👋 I'm Yiman Xie 谢艺漫. 
 
-
+- I'm currently an undergraduate at Turing Class, Zhejiang University.
 - I am a robotics researcher intern of the [Shanghai AI Lab](https://www.shlab.org.cn/)
 - Here is my [Homepage](https://kuaikuaixym.github.io/)
 - My research interest includes Robot Manipulation, Spatial Intelligence and Computer Vision.
